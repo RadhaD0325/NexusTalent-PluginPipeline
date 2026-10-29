@@ -1,0 +1,121 @@
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : pacTelemetryUpload threw exception when calling BatchedSender.Run.
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Run()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : pacTelemetryUpload threw exception when calling BatchedSender.Run.
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Run()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : pacTelemetryUpload threw exception when calling BatchedSender.Run.
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Run()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : pacTelemetryUpload threw exception when calling BatchedSender.Run.
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Run()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : pacTelemetryUpload threw exception when calling BatchedSender.Run.
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Run()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : pacTelemetryUpload threw exception when calling BatchedSender.Run.
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Run()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : pacTelemetryUpload threw exception when calling BatchedSender.Run.
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Run()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : pacTelemetryUpload threw exception when calling BatchedSender.Run.
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Run()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : pacTelemetryUpload threw exception when calling BatchedSender.Run.
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Run()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : pacTelemetryUpload threw exception when calling BatchedSender.Run.
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Run()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : pacTelemetryUpload threw exception when calling BatchedSender.Run.
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Microsoft.ApplicationInsights, Version=2.21.0.429, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Run()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
